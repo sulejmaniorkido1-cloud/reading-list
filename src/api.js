@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001";
+const BASE_URL = "https://reading-list-backend-mhgp.onrender.com";
 
 function getToken() {
   return localStorage.getItem("token");
